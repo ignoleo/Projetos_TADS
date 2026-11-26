@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Fichas de Animais
+# Sistema para Adoção e Resgate de Animais - SARA
 
 Aplicação de console desenvolvida em linguagem C para cadastrar, pesquisar, remover e listar fichas de animais. Os registros são armazenados em `cadastro_de_fichas.txt` para permanecerem disponíveis quando o programa for encerrado e executado novamente.
 
